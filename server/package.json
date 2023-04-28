@@ -3,13 +3,10 @@
   "version": "1.0.0",
   "description": "blood bank management system",
   "main": "index.js",
-  "homepage":"https://Shriman29.github.io/Blood-Bank-Management-System",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "devStart": "nodemon server.js",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
+    "devStart": "nodemon server.js"
   },
   "author": "jishnu",
   "license": "ISC",
