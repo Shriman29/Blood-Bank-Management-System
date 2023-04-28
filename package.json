@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "gh-pages": "^5.0.0"
+  },
+  "dependencies": {
+    "react-router-dom": "^5.3.4",
+    "styled-components": "^5.3.9"
+  }
+}
